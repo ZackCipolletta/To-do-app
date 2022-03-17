@@ -26,3 +26,7 @@ function removeLi(li_id) { //create a function named 'removeLI'
   var thisLi = document.getElementById(li_id); // creates and defines a variable named 'thisLi' and dfines it as an HTML element with an id of 'li_id'.
   thisLi.parentNode.parentNode.remove(thisLi); // removes the HTML li elment containing the element defined by 'thisLi'.
 }
+
+
+
+// <span> &check;	</span> code to add checkmark in HTML. 
