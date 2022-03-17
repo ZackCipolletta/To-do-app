@@ -1,4 +1,8 @@
 # To-do-app
+
+Download and extract files.  Launch Index.html in browswer to use.
+
+
 Create a to do list
 
 
