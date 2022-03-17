@@ -1,6 +1,6 @@
 # To-do-app
 
-Download and extract files.  Launch Index.html in browswer to use.
+Download a zip file of the project and extract files.  Launch Index.html in browswer to use.
 
 
 Create a to do list
