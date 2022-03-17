@@ -1,0 +1,59 @@
+
+@import 'https://fonts.googleapis.com/css?family=Lato:400,700';
+
+h1 {
+  text-align: center;
+  margin: auto;
+  font-weight: normal;
+  font-size: 45px;
+  padding-bottom: 1em;
+}
+header {
+  text-align: center;
+  margin: auto;
+  color: green;
+  font-weight: bold;
+  font-size: 24px;
+  font
+  padding: 1em;
+}
+div {
+  text-align: center;
+  padding-bottom: 2em;
+}
+td {
+  border-collapse: collapse;
+  border: 1px solid gray;
+}
+th {
+  text-align: left;
+}
+
+
+input {
+ width: 300px; 
+ line-height: 25px;
+}
+
+body {
+  margin: auto;
+  width: 800px;
+}
+
+table {
+  margin: auto;
+  width: 800px;
+}
+
+.one {
+  width: 400px;
+}
+.two {
+  width: 190px;
+}
+.data {
+  width: 20px;
+}
+
+
+
