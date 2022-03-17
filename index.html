@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+      <link href="css/style.css" rel="stylesheet" />
+      <title>To do app</title>
+  </head>
+  <body>  
+    <header>
+          <h1>To do list</h1>
+    </header>
+    <div>        
+          <input type="text" id="main-input"/> <!--adds input field with id 'main-input' -->
+          <button onclick="submit()">Submit</button> <!-- adds a 'submit' button which will call the 'submit' function on click -->
+          <button onclick="clearList()">Clear List</button> <!-- adds a 'Clear List' button which will call the clearList function on click-->
+      <span>&check;	</span>
+    </div>
+   
+    <ol id="itemList"></ol>
+    
+    <script src="app.js"></script>
+  </body>
+</html>
